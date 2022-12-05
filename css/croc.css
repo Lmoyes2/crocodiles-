@@ -31,7 +31,7 @@ p, blockquote{
 }
 
 h1,h2 {
-        color: #651470;
+        color: #9b3103;
 }
 
 h1 {
@@ -48,7 +48,7 @@ h2 {
 blockquote {
     font-style: italic;
     font-size: 1.999rem;
-    color: #651470;
+    color: #9b3103;
     hanging-punctuation: first;
     text-indent: -0.7rem;
 }
@@ -83,7 +83,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #651470;
+    background-color: #9b3103;
     padding: 1.5rem 0;
     font-size: 0.75;
 }
@@ -219,10 +219,10 @@ footer p {
         margin: 1em auto;}
 
 connections a:hover svg path {
-        fill: #be52cd;
+        fill: #9b3103;
         transition: all 0.2s ease-in-out;}
         
 footer .connections a:hover svg path {
-        fill: #be52cd;
+        fill: #9b3103;
         transition: all 0.2s ease-in-out;}
 Footer
