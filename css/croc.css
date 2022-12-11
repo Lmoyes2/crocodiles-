@@ -105,7 +105,7 @@ nav a {color: #f7f7f7;}
 
 nav a:hover {
     border-bottom: none;
-    color: rgb(190 82 205);
+    color: #c55829de;
     transition: all 0.5s ease-in-out;
 }
 
